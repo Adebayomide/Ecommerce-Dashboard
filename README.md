@@ -40,6 +40,4 @@ The Ecommerce Dashboard offers an interactive user interface that empowers users
 
 ## Conclusion
 
-The Ecommerce Dashboard provides a comprehensive overview of sales, profitability, and order quantity for an ecommerce business operating in Africa, Europe, Latin America, Pacific Asia, and Central America. By leveraging the insights provided in this dashboard, users can make informed business decisions,
-
- identify areas of growth, understand market dynamics, and optimize sales strategies for different customer segments and regions.
+The Ecommerce Dashboard provides a comprehensive overview of sales, profitability, and order quantity for an ecommerce business operating in Africa, Europe, Latin America, Pacific Asia, and Central America. By leveraging the insights provided in this dashboard, users can make informed business decisions, identify areas of growth, understand market dynamics, and optimize sales strategies for different customer segments and regions.
